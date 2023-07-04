@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897751583634",
+    "project_id": "todoquest-cf93c",
+    "storage_bucket": "todoquest-cf93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897751583634:android:9d3dd0f5cbb34ad016cf4b",
+        "android_client_info": {
+          "package_name": "com.example.assgintodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897751583634-8mfjbat4ognqa47rgoucpgj687tqrcne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xFY1g0oql-wF3ODl8vZsz8v6sgAOdB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897751583634-8mfjbat4ognqa47rgoucpgj687tqrcne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
